@@ -1,0 +1,102 @@
+Month, Day, Weekday, Holiday or Observance, Calendar
+Jan, 1, Saturday, Western New Year, international
+Jan, 6, Thursday, Epiphany, christian
+Jan, 7, Friday, Orthodox Christmas, orthodox
+Jan, 14, Friday, Orthodox New Year, orthodox
+Jan, 14, Friday, Tamil Thai Pongal Day, solar
+Jan, 18, Tuesday, Thaipusam, hindu solar
+Jan, 20, Thursday, Aquarius (UTC), solar
+Feb, 1, Tuesday, Chinese New Year / Spring Festival, chinese lunar
+Feb, 1, Tuesday, Seol-nal / Korean New Year, korean lunar
+Feb, 1, Tuesday, Tet Nguyen Dan / Vietnamese New Year, vietnamese lunar
+Feb, 2, Wednesday, Tsagaan Sar / Mongolian New Year (Year of the Water Tiger), mongolian lunar
+Feb, 18, Friday, Pisces (UTC), solar
+Feb, 28, Monday, Lailat al Miraj / The Prophet's Ascension (Umm al-Qura), muslim
+Mar, 1, Tuesday, Maha Shivaratree, hindu lunar
+Mar, 1, Tuesday, Shrove Tuesday / Carnival, easter
+Mar, 2, Wednesday, Ash Wednesday, easter
+Mar, 3, Thursday, Dangpa Losar / Bhutanese New Year (Year of the Male Water Tiger), bhutanese lunar
+Mar, 3, Thursday, Losar / Tibetan New Year, tibetan lunar
+Mar, 7, Monday, Orthodox Clean Monday, orthodox easter
+Mar, 8, Tuesday, International Women's Day, international
+Mar, 8, Tuesday, Orthodox Shrove Tuesday, orthodox easter
+Mar, 9, Wednesday, Orthodox Ash Wednesday, orthodox easter
+Mar, 17, Thursday, Purim, jewish
+Mar, 18, Friday, Holi Phagwa, hindu lunar
+Mar, 18, Friday, Lailat al Bara'a / Night of Emancipation (Umm al-Qura), muslim
+Mar, 20, Sunday, Aries (UTC), solar
+Mar, 20, Sunday, Vernal Equinox / Spring (UTC), solar
+Mar, 23, Wednesday, Mi-Carême / Mid-Lent, easter
+Apr, 2, Saturday, Ougadi / Ugaadi, hindu lunar
+Apr, 2, Saturday, Start of Ramadan (Umm al-Qura), muslim
+Apr, 5, Tuesday, Qing Ming Jie / Tomb Sweeping Day, chinese solar
+Apr, 10, Sunday, Palm Sunday, easter
+Apr, 10, Sunday, Ram Navami, hindu lunar
+Apr, 13, Wednesday, Laotian New Year,
+Apr, 14, Thursday, Cambodian New Year, solar
+Apr, 14, Thursday, Mahavir Jayanti / Janma Kalyanak, hindu lunar
+Apr, 14, Thursday, Maundy Thursday, easter
+Apr, 15, Friday, Good Friday, easter
+Apr, 16, Saturday, Pesach / Jewish Passover, jewish
+Apr, 17, Sunday, Burmese New Year,
+Apr, 17, Sunday, Easter, easter
+Apr, 18, Monday, Easter Monday, easter
+Apr, 18, Monday, Nuzul Quran / Revelation of the Qur'an (Umm al-Qura), muslim
+Apr, 20, Wednesday, Taurus (UTC), solar
+Apr, 22, Friday, Orthodox Good Friday, orthodox easter
+Apr, 23, Saturday, Orthodox Holy Saturday, orthodox easter
+Apr, 24, Sunday, Orthodox Easter, orthodox easter
+Apr, 25, Monday, Orthodox Easter Monday, orthodox easter
+Apr, 28, Thursday, Lailat al Qadr / Night of Destiny (Umm al-Qura), muslim
+Apr, 29, Friday, Jumatul Bidah / Friday of Farewell (Umm al-Qura), muslim
+May, 1, Sunday, International Labour Day, international
+May, 2, Monday, Eid al Fitr / End of Ramadan (Umm al-Qura), muslim
+May, 13, Friday, Great Prayer Day, easter
+May, 21, Saturday, Gemini (UTC), solar
+May, 26, Thursday, Ascension Day, easter
+June, 3, Friday, Duan Wu Jie / Dragon Boat Festival, chinese lunar
+June, 5, Sunday, Shavuot, jewish
+June, 5, Sunday, Whit Sunday / Pentecost, easter
+June, 6, Monday, Whit Monday, easter
+June, 13, Monday, Orthodox Pentecost Monday, orthodox easter
+June, 16, Thursday, Corpus Christi, easter
+June, 21, Tuesday, Cancer (UTC), solar
+June, 21, Tuesday, Summer Solstice / Summer (UTC), solar
+July, 8, Friday, Arafat Day (Umm al-Qura), muslim
+July, 9, Saturday, Eid al Adha / Feast of Sacrifice (Umm al-Qura), muslim
+July, 22, Friday, Leo (UTC), solar
+July, 30, Saturday, Islamic New Year / Hijra New Year (1444) (Umm al-Qura), muslim
+Aug, 8, Monday, Ashura (Umm al-Qura), muslim
+Aug, 15, Monday, Assumption, christian
+Aug, 16, Tuesday, Parsi New Year, zoroastrian
+Aug, 23, Tuesday, Virgo (UTC), solar
+Aug, 31, Wednesday, Ganesh Chaturthi / Vinayaka Chaturthi / Chaturthi Paksha, hindu lunar
+Sep, 8, Thursday, Onam / Thiruonam, hindu solar
+Sep, 10, Saturday, Zhong Qu Jie / Mid Autumn Festival, chinese lunar
+Sep, 14, Wednesday, Magal de Touba (Umm al-Qura), muslim
+Sep, 23, Friday, Autumnal Equinox / Fall (UTC), solar
+Sep, 23, Friday, Libra (UTC), solar
+Sep, 26, Monday, Rosh Hashanah / Jewish New Year (5783), jewish
+Oct, 5, Wednesday, Dassain, hindu lunar
+Oct, 5, Wednesday, Yom Kippur, jewish
+Oct, 8, Saturday, Mawlid an Nabi / The Prophet's Birthday (Umm al-Qura), muslim
+Oct, 10, Monday, Sukkot, jewish
+Oct, 15, Saturday, Baptism of the Prophet (Umm al-Qura), muslim
+Oct, 23, Sunday, Scorpio (UTC), solar
+Oct, 24, Monday, Northern Deepavali / Diwali Amavasya, hindu lunar
+Oct, 24, Monday, Southern Deepavali / Diwali Krisna Chaturdasi, hindu lunar
+Oct, 31, Monday, Reformation Day,
+Nov, 1, Tuesday, All Saints' Day, christian
+Nov, 2, Wednesday, All Souls' Day, christian
+Nov, 8, Tuesday, Guru Nanak Jayanti, hindu lunar
+Nov, 22, Tuesday, Sagittarius (UTC), solar
+Nov, 27, Sunday, First Sunday in Advent, christian
+Dec, 4, Sunday, Second Sunday in Advent, christian
+Dec, 8, Thursday, Immaculate Conception, christian
+Dec, 11, Sunday, Third Sunday in Advent, christian
+Dec, 18, Sunday, Fourth Sunday in Advent, christian
+Dec, 21, Wednesday, Capricorn (UTC), solar
+Dec, 21, Wednesday, Winter Solstice / Winter (UTC), solar
+Dec, 25, Sunday, Western Christmas, christian
+Dec, 26, Monday, Boxing Day / Saint Stephen's Day, christian
+Dec, 31, Saturday, Western New Year's Eve, international
